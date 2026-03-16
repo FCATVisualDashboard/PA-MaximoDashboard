@@ -1,0 +1,1 @@
+-- CREATE TABLE definitions for: area, grid, work_order, ingestion_logs
